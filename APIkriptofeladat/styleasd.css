@@ -1,0 +1,8 @@
+body{
+    background-color: lightgoldenrodyellow;
+    color: darkred;
+}
+
+tr:nth-child(even){
+    background-color: rgb(156, 238, 238);
+}
